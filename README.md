@@ -40,11 +40,11 @@ Git, Docker, Jenkins, Postman, Agile
 ## 📂 Featured Projects
 
 - 🔧 [Meter Down – Cab Booking App]([https://meter-down.herokuapp.com/](https://fsd-mern-grp-27-meter-down.vercel.app/))  
-  GitHub Link - [https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN](https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN)
+  GitHub Link - [https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN](https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN).<br>
   MERN stack cab booking platform with map-based route visualization and real-time ride operations.
 
-- 🍽️ [Lemieux – Restaurant Management System]
-  GitHub Link - [https://github.com/adityatawade12/POS-System](\https://github.com/adityatawade12/POS-System)
+- 🍽️ [Le mieux – Restaurant Management System]([https://github.com/adityatawade12/POS-System](\https://github.com/adityatawade12/POS-System)).<br>
+  GitHub Link - [https://github.com/adityatawade12/POS-System](https://github.com/adityatawade12/POS-System).<br>
   Full admin panel using Django & Firebase to manage inventory, orders, and staff.
   
 ---
@@ -58,4 +58,5 @@ Git, Docker, Jenkins, Postman, Agile
 ---
 
 ⚠️ Note: Most of my recent contributions are part of private or enterprise repositories and are not reflected in the public GitHub stats above.
+
 💡 *I’m currently open to exciting opportunities where I can contribute as a  frontend developer while continuing to grow as a full-stack engineer. Let's collaborate!*
