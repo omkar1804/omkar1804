@@ -6,6 +6,16 @@
 
 ---
 
+## 🧑‍💼 Professional Highlights
+
+- Spearheaded UI development for a globally recognized ops platform, reducing manual effort across teams.
+- Built pixel-perfect screens in React based on complex Figma designs, integrated seamlessly with backend APIs.
+- Took initiative to contribute to backend modules using Spring Boot and MongoDB for end-to-end feature delivery.
+- Improved application monitoring by auditing and optimizing Application Insights configuration.
+- Active contributor in Agile sprints, bridging frontend and backend efforts across teams.
+
+---
+
 ## 🔧 Tech Stack
 
 **Languages:**  
@@ -35,16 +45,6 @@ Git, Docker, Jenkins, Postman, Agile
 
 - 🌱 [Udaan – NGO Volunteer Platform](#)  
   Volunteer-NGO matching and dashboard analytics with Node.js and MongoDB.
-
----
-
-## 🧑‍💼 Professional Highlights
-
-- Spearheaded UI development for a globally recognized ops platform, reducing manual effort across teams.
-- Built pixel-perfect screens in React based on complex Figma designs, integrated seamlessly with backend APIs.
-- Took initiative to contribute to backend modules using Spring Boot and MongoDB for end-to-end feature delivery.
-- Improved application monitoring by auditing and optimizing Application Insights configuration.
-- Active contributor in Agile sprints, bridging frontend and backend efforts across teams.
 
 ---
 
