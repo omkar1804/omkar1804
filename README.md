@@ -39,13 +39,29 @@ Git, Docker, Jenkins, Postman, Agile
 
 ## 📂 Featured Projects
 
-- 🔧 [Meter Down – Cab Booking App]([https://meter-down.herokuapp.com/](https://fsd-mern-grp-27-meter-down.vercel.app/))  
-  GitHub Link - [https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN](https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN).<br>
-  MERN stack cab booking platform with map-based route visualization and real-time ride operations.
+### 🔧 Meter Down – Cab Booking App  
+🌐 [Live Demo](https://fsd-mern-grp-27-meter-down.vercel.app/) • 📂 [GitHub](https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN)
 
-- 🍽️ [Le mieux – Restaurant Management System]([https://github.com/adityatawade12/POS-System](\https://github.com/adityatawade12/POS-System)).<br>
-  GitHub Link - [https://github.com/adityatawade12/POS-System](https://github.com/adityatawade12/POS-System).<br>
-  Full admin panel using Django & Firebase to manage inventory, orders, and staff.
+A full-stack cab booking app with real-time ride flow and map integration.
+
+**🚗 Key Features**
+- 🚙 Select vehicle based on your need  
+- ✅ Confirm or cancel ride  
+- 📍 Enter pickup & drop locations  
+- 🗺️ Visualize route on interactive map
+
+--- 🚀 ---
+
+### 🍽️ Le mieux – Restaurant Management System  
+📂 [GitHub](https://github.com/adityatawade12/POS-System)
+
+A restaurant POS system with admin panel built using Django and Firebase.
+
+**🍴 Key Features**
+- 🍕 Select favorite food items  
+- 📍 Confirm delivery location  
+- ❌ Cancel or edit an order  
+- 🧾 Manage inventory & staff data (Admin)
   
 ---
 
