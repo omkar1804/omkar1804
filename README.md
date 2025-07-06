@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omkar Sawant
 
-💻 **Frontend-Focused Software Engineer** | Exploring Full-Stack Development  
+💻 **Frontend Software Engineer** | Exploring Full-Stack Development  
 🚀 I specialize in building responsive, production-ready user interfaces with a growing interest in backend systems and API architecture.  
 🏆 Recognized as a **Star Performer** for frontend excellence in high-impact enterprise projects.
 
@@ -22,12 +22,6 @@ MongoDB, Firebase, SQL, Application Insights
 
 **Tools & Platforms:**  
 Git, Docker, Jenkins, Postman, Agile
-
----
-
-## 📈 GitHub Stats
-
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarsawant&show_icons=true&theme=radical)
 
 ---
 
