@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Omkar Sawant
 
 💻 **Frontend Software Engineer** | Exploring Full-Stack Development  
-🚀 I specialize in building responsive, production-ready user interfaces with a growing interest in backend systems and API architecture.  
-🏆 Recognized as a **Star Performer** for frontend excellence in high-impact enterprise projects.
+- 💼 Software Engineer with **2.5 years of hands-on experience** building scalable, high-impact applications in Agile environments.
+- 🧑‍🎨 Started with frontend development using **ReactJS**, **SCSS**, and **Micro Frontend Architecture** to craft user-centric interfaces.
+- 🔧 Expanded into backend systems with **Spring Boot** and **MongoDB**, building **complete API workflows** connecting business logic to user needs.
+- 🏆 Recognized for turning complex designs into production-ready solutions, **optimizing cloud telemetry**, and collaborating across pods for seamless delivery.
 
 ---
 
@@ -13,7 +15,7 @@
 - Took initiative to contribute to backend modules using Spring Boot and MongoDB for end-to-end feature delivery.
 - Improved application monitoring by auditing and optimizing Application Insights configuration.
 - Active contributor in Agile sprints, bridging frontend and backend efforts across teams.
-
+  
 ---
 
 ## 🔧 Tech Stack
@@ -37,23 +39,23 @@ Git, Docker, Jenkins, Postman, Agile
 
 ## 📂 Featured Projects
 
-- 🔧 [Meter Down – Cab Booking App](https://meter-down.herokuapp.com/)  
+- 🔧 [Meter Down – Cab Booking App]([https://meter-down.herokuapp.com/](https://fsd-mern-grp-27-meter-down.vercel.app/))  
+  GitHub Link - [https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN](https://github.com/vedant080102/FSD-MERN-GRP27-METER_DOWN)
   MERN stack cab booking platform with map-based route visualization and real-time ride operations.
 
-- 🍽️ [Lemieux – Restaurant Management System](https://le-mieux-website.herokuapp.com/home)  
+- 🍽️ [Lemieux – Restaurant Management System]
+  GitHub Link - [https://github.com/adityatawade12/POS-System](\https://github.com/adityatawade12/POS-System)
   Full admin panel using Django & Firebase to manage inventory, orders, and staff.
-
-- 🌱 [Udaan – NGO Volunteer Platform](#)  
-  Volunteer-NGO matching and dashboard analytics with Node.js and MongoDB.
-
+  
 ---
 
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/omkar-sawant-2664681a9/)
-- 🌐 [Portfolio Website](https://yourdomain.com) <!-- Replace with your actual portfolio link -->
+- 🌐 [Portfolio Website](https://github.com/omkar1804)
 - 📧 [Email](mailto:omksawant18@gmail.com)
 
 ---
 
-💡 *I’m currently open to exciting opportunities where I can lead frontend development while continuing to grow as a full-stack engineer. Let's collaborate!*
+⚠️ Note: Most of my recent contributions are part of private or enterprise repositories and are not reflected in the public GitHub stats above.
+💡 *I’m currently open to exciting opportunities where I can contribute as a  frontend developer while continuing to grow as a full-stack engineer. Let's collaborate!*
