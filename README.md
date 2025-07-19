@@ -24,7 +24,7 @@
 JavaScript, TypeScript, Java, Python, C, C++
 
 **Frontend:**  
-React, Next.js, SCSS, HTML/CSS, Micro Frontends (Single-SPA), Figma
+React, Next.js, SCSS, HTML/CSS, Micro Frontends (Single-SPA)
 
 **Backend (Learning & Working On):**  
 Spring Boot, Node.js, Express.js
@@ -33,7 +33,7 @@ Spring Boot, Node.js, Express.js
 MongoDB, Firebase, SQL, Application Insights
 
 **Tools & Platforms:**  
-Git, Docker, Jenkins, Postman, Agile
+Git, Postman, Agile
 
 ---
 
